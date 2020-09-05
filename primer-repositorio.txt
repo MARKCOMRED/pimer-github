@@ -1,5 +1,6 @@
 este es el aprendizaje del curso de git y github
 
-mi nombre es helard rivera
+mi nombre es helard rivera ramirez
+con sed de aprendizaje
 
-mi librofaborito es despertando a tu gigante
+mi librofaborito es despertando a tu gigante interior
