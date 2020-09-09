@@ -3,7 +3,26 @@ body{
   max-width: 768px;
   font-size: 20px;
   font-family: arial;
-  text-align: center;
+  }
+p.logo {
+  background: #ce9506;
+  margin: 0.2em;
+  /* padding: 5px; */
+  color: white;
+  font-weight: bold;
+  /* margin-left: 0;
+  padding-left: 0; */
+  box-shadow: 0px 5px 20px 0px rgba(0,0,0,75);
+  justify-content: flex-start;
+}
+.logo {
+  font-size: 1.5em;
+  padding: 5px 15px 5px 30px;
+}
+.marketing {
+  font-size: 0.8em;
+  font-weight: normal;
+  padding-left: 20px;
 }
 .hero {
   border: solid;
@@ -13,10 +32,6 @@ body{
   color: black;
   margin-bottom: 1em;
 }
-.hero {
-  font-style: italic;
-}
-
 footer {
   font-size: .8em;
   font-family: helvetica;
@@ -24,5 +39,4 @@ footer {
   padding: 10px;
   background: #aaa;
   color: white;
-  box-sizing: border-box;
 }
