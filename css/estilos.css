@@ -13,6 +13,10 @@ body{
   color: black;
   margin-bottom: 1em;
 }
+.hero {
+  font-style: italic;
+}
+
 footer {
   font-size: .8em;
   font-family: helvetica;
@@ -21,5 +25,4 @@ footer {
   background: #aaa;
   color: white;
   box-sizing: border-box;
-
 }
